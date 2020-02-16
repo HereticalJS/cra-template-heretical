@@ -11,14 +11,14 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/caasi/cra-template-heretical.git"
+    "url": "https://github.com/HereticalJS/cra-template-heretical.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/caasi/cra-template-heretical/issues"
+    "url": "https://github.com/HereticalJS/cra-template-heretical/issues"
   },
   "files": [
     "template",
