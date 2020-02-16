@@ -6,6 +6,9 @@
       "@testing-library/user-event": "^7.1.2",
       "classnames": "^2.2.6",
       "react-router-dom": "^5.1.2"
+    },
+    "devDependencies": {
+      "node-sass": "^4.13.1"
     }
   }
 }
